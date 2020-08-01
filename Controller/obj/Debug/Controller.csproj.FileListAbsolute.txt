@@ -1,0 +1,44 @@
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Ingineria programarii\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Controller.dll
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Ingineria programarii\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Controller.pdb
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Ingineria programarii\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Model.dll
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Ingineria programarii\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Model.pdb
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Ingineria programarii\Proiect\ConfiguratorPretLogan\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Ingineria programarii\Proiect\ConfiguratorPretLogan\Controller\obj\Debug\Controller.dll
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Ingineria programarii\Proiect\ConfiguratorPretLogan\Controller\obj\Debug\Controller.pdb
+D:\facultate\an4\semestrul2\IP\proiectIP\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Controller.dll
+D:\facultate\an4\semestrul2\IP\proiectIP\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Controller.pdb
+D:\facultate\an4\semestrul2\IP\proiectIP\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Model.dll
+D:\facultate\an4\semestrul2\IP\proiectIP\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Model.pdb
+D:\facultate\an4\semestrul2\IP\proiectIP\Proiect\ConfiguratorPretLogan\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+D:\facultate\an4\semestrul2\IP\proiectIP\Proiect\ConfiguratorPretLogan\Controller\obj\Debug\Controller.dll
+D:\facultate\an4\semestrul2\IP\proiectIP\Proiect\ConfiguratorPretLogan\Controller\obj\Debug\Controller.pdb
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Ingineria programarii\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Oracle.DataAccess.dll
+D:\facultate\an4\semestrul2\IP\proiectIP\New folder\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Controller.dll
+D:\facultate\an4\semestrul2\IP\proiectIP\New folder\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Controller.pdb
+D:\facultate\an4\semestrul2\IP\proiectIP\New folder\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Model.dll
+D:\facultate\an4\semestrul2\IP\proiectIP\New folder\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Oracle.DataAccess.dll
+D:\facultate\an4\semestrul2\IP\proiectIP\New folder\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\View.dll
+D:\facultate\an4\semestrul2\IP\proiectIP\New folder\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Model.pdb
+D:\facultate\an4\semestrul2\IP\proiectIP\New folder\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\View.pdb
+D:\facultate\an4\semestrul2\IP\proiectIP\New folder\Proiect\ConfiguratorPretLogan\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+D:\facultate\an4\semestrul2\IP\proiectIP\New folder\Proiect\ConfiguratorPretLogan\Controller\obj\Debug\Controller.dll
+D:\facultate\an4\semestrul2\IP\proiectIP\New folder\Proiect\ConfiguratorPretLogan\Controller\obj\Debug\Controller.pdb
+C:\Users\Gabi Socea\Desktop\ConfiguratorPretLogan\Controller\bin\Debug\Controller.dll
+C:\Users\Gabi Socea\Desktop\ConfiguratorPretLogan\Controller\bin\Debug\Controller.pdb
+C:\Users\Gabi Socea\Desktop\ConfiguratorPretLogan\Controller\bin\Debug\Model.dll
+C:\Users\Gabi Socea\Desktop\ConfiguratorPretLogan\Controller\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Gabi Socea\Desktop\ConfiguratorPretLogan\Controller\bin\Debug\View.dll
+C:\Users\Gabi Socea\Desktop\ConfiguratorPretLogan\Controller\bin\Debug\Model.pdb
+C:\Users\Gabi Socea\Desktop\ConfiguratorPretLogan\Controller\bin\Debug\View.pdb
+C:\Users\Gabi Socea\Desktop\ConfiguratorPretLogan\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\Gabi Socea\Desktop\ConfiguratorPretLogan\Controller\obj\Debug\Controller.dll
+C:\Users\Gabi Socea\Desktop\ConfiguratorPretLogan\Controller\obj\Debug\Controller.pdb
+D:\facultate\an4\semestrul2\IP\Proiect\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Controller.dll
+D:\facultate\an4\semestrul2\IP\Proiect\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Controller.pdb
+D:\facultate\an4\semestrul2\IP\Proiect\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Model.dll
+D:\facultate\an4\semestrul2\IP\Proiect\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Oracle.DataAccess.dll
+D:\facultate\an4\semestrul2\IP\Proiect\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Model.pdb
+D:\facultate\an4\semestrul2\IP\Proiect\Proiect\ConfiguratorPretLogan\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+D:\facultate\an4\semestrul2\IP\Proiect\Proiect\ConfiguratorPretLogan\Controller\obj\Debug\Controller.dll
+D:\facultate\an4\semestrul2\IP\Proiect\Proiect\ConfiguratorPretLogan\Controller\obj\Debug\Controller.pdb
+D:\facultate\an4\semestrul2\IP\proiectIP\Proiect\ConfiguratorPretLogan\Controller\bin\Debug\Oracle.DataAccess.dll
